@@ -21,3 +21,4 @@ site/
 .cache/
 temp/
 # posts/
+site/
