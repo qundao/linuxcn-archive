@@ -51,7 +51,7 @@ markdown_extensions:
   - pymdownx.superfences
 
 plugins:
-  - search
+  # - search
   - blog:
       # blog_dir: .
       blog_toc: true
