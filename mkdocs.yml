@@ -1,5 +1,8 @@
-site_name: LINUX.CN Archive
-#docs_dir: content
+site_name: LINUX.CN ARCHIVE
+site_url: https://qundao.github.io/linuxcn-archive/
+site_description: LINUX.CN ARCHIVE
+copyright: A backup of <a href="https://archive.linux.cn/">LINUX.CN ARCHIVE</a>
+repo_url: https://github.com/qundao/linuxcn-archive
 
 theme:
   name: material
@@ -65,12 +68,10 @@ plugins:
   # - search
   - blog:
       blog_toc: true
-      # categories: false
       categories_toc: true
-      # archive_url_date_format: yyyy/MM
       archive_toc: true
       post_url_format: "{file}" # "{file}", "{slug}"
       pagination_per_page: 10
 
 nav:
-  - LINUX.CN Archive: blog/
+  - LINUX.CN ARCHIVE: blog/
