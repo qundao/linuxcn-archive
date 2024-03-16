@@ -1,8 +1,27 @@
+---
+hide:
+  - navigation
+  - toc
+  - footer
+search:
+  exclude: true
+icon: fontawesome/brands/linux
+---
+
 # Linux 中国归档
 
 ## Linux 中国文章简单统计
 
 这是对Linux中国归档资料中所有的10320篇文章抽取了元数据后的简单统计和分析。
+
+<!-- more -->
+
+- [Linux 中国归档](#linux-中国归档)
+  - [Linux 中国文章简单统计](#linux-中国文章简单统计)
+    - [来源站点](#来源站点)
+    - [分类和标签](#分类和标签)
+    - [文章访问情况](#文章访问情况)
+    - [人员](#人员)
 
 ### 来源站点
 
